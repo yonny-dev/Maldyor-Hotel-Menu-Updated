@@ -10,7 +10,7 @@ const CATEGORY_EMOJIS: Record<Category, string> = {
   'Traditional Food': '🥘',
   'Spaghetti / Rice / Maccoroni': '🍝',
   'Sandwich': '🥪',
-  'WRap': '🌯',
+  'Wrap': '🌯',
   'Steak': '🥩',
   'Curry': '🍛',
   'Chicken': '🍗',
